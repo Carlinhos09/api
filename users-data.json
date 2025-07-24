@@ -1,0 +1,35 @@
+[
+  {
+    "email": "ana@goinn.com",
+    "senha": "ana123",
+    "role": "user",
+    "nickname": "Ana Flávia"
+  },
+  {
+    "email": "admin@qaju.com",
+    "senha": "qaju2025",
+    "role": "admin"
+  },
+  {
+    "email": "admin@gaju.com",
+    "senha": "gaju2025",
+    "role": "admin"
+  },
+  {
+    "email": "thai@qaju.com",
+    "senha": "thai123",
+    "role": "user"
+  },
+  {
+    "email": "carlos@qaju.com",
+    "senha": "carlos123",
+    "role": "user",
+    "nickname": "Carlos Coelho"
+  },
+  {
+    "email": "ed@qaju.com",
+    "senha": "ed123",
+    "role": "user",
+    "nickname": "Estagiario Edilson"
+  }
+]

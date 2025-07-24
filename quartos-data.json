@@ -1,0 +1,1612 @@
+{
+  "101": {
+    "ID_QUARTO": 101,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-23T13:31:00.055Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:36.725Z",
+    "CHECKLIST": [
+      "Cama arrumada",
+      "Lençóis limpos",
+      "Toalhas renovadas",
+      "Banheiro limpo",
+      "Chão limpo",
+      "Lixo esvaziado",
+      "Ar-condicionado funcionando",
+      "Lâmpadas funcionando"
+    ]
+  },
+  "102": {
+    "ID_QUARTO": 102,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-23T13:34:12.694Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:36.767Z",
+    "CHECKLIST": [
+      "Cama arrumada",
+      "Lençóis limpos",
+      "Toalhas renovadas",
+      "Banheiro limpo",
+      "Chão limpo",
+      "Lixo esvaziado",
+      "Minibar abastecido"
+    ]
+  },
+  "103": {
+    "ID_QUARTO": 103,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-23T13:31:00.063Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:36.912Z",
+    "CHECKLIST": [
+      "Toalhas renovadas",
+      "Banheiro limpo",
+      "Chão limpo",
+      "Lixo esvaziado",
+      "Minibar abastecido"
+    ]
+  },
+  "104": {
+    "ID_QUARTO": 104,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-24T11:53:13.129Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:36.917Z",
+    "CHECKLIST": [
+      "Lixo esvaziado",
+      "Minibar abastecido"
+    ]
+  },
+  "105": {
+    "ID_QUARTO": 105,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-22T12:16:48.418Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:36.934Z",
+    "CHECKLIST": []
+  },
+  "106": {
+    "ID_QUARTO": 106,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-22T12:16:48.422Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:36.928Z",
+    "CHECKLIST": []
+  },
+  "107": {
+    "ID_QUARTO": 107,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-22T12:16:48.427Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-18T23:03:17.676Z",
+    "CHECKLIST": []
+  },
+  "108": {
+    "ID_QUARTO": 108,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T01:01:29.609Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T01:01:29.609Z",
+    "CHECKLIST": []
+  },
+  "109": {
+    "ID_QUARTO": 109,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:36.952Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:36.952Z",
+    "CHECKLIST": []
+  },
+  "110": {
+    "ID_QUARTO": 110,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:36.943Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:36.943Z",
+    "CHECKLIST": []
+  },
+  "111": {
+    "ID_QUARTO": 111,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:36.976Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:36.976Z",
+    "CHECKLIST": []
+  },
+  "112": {
+    "ID_QUARTO": 112,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:36.997Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:36.997Z",
+    "CHECKLIST": []
+  },
+  "113": {
+    "ID_QUARTO": 113,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.012Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.012Z",
+    "CHECKLIST": []
+  },
+  "114": {
+    "ID_QUARTO": 114,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.025Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.025Z",
+    "CHECKLIST": []
+  },
+  "115": {
+    "ID_QUARTO": 115,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.035Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.035Z",
+    "CHECKLIST": []
+  },
+  "116": {
+    "ID_QUARTO": 116,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.146Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.146Z",
+    "CHECKLIST": []
+  },
+  "117": {
+    "ID_QUARTO": 117,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.151Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.151Z",
+    "CHECKLIST": []
+  },
+  "118": {
+    "ID_QUARTO": 118,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T01:01:29.712Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T01:01:29.712Z",
+    "CHECKLIST": []
+  },
+  "119": {
+    "ID_QUARTO": 119,
+    "STATUS": "Ocupado",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.159Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.159Z",
+    "CHECKLIST": []
+  },
+  "120": {
+    "ID_QUARTO": 120,
+    "STATUS": "Vago sujo",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-21T21:55:37.623Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.167Z",
+    "CHECKLIST": []
+  },
+  "121": {
+    "ID_QUARTO": 121,
+    "STATUS": "Vago sujo",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-21T21:55:37.643Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T01:01:29.736Z",
+    "CHECKLIST": []
+  },
+  "122": {
+    "ID_QUARTO": 122,
+    "STATUS": "Vago sujo",
+    "ANDAR": 1,
+    "ULTIMA_ATUALIZACAO": "2025-07-21T21:55:37.651Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T01:01:29.767Z",
+    "CHECKLIST": []
+  },
+  "201": {
+    "ID_QUARTO": 201,
+    "STATUS": "Ocupado",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.333Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.333Z",
+    "CHECKLIST": []
+  },
+  "202": {
+    "ID_QUARTO": 202,
+    "STATUS": "Vago sujo",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.343Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.343Z",
+    "CHECKLIST": []
+  },
+  "203": {
+    "ID_QUARTO": 203,
+    "STATUS": "Ocupado",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T13:22:35.806Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T13:22:35.806Z",
+    "CHECKLIST": []
+  },
+  "204": {
+    "ID_QUARTO": 204,
+    "STATUS": "Ocupado",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T13:22:35.814Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T13:22:35.815Z",
+    "CHECKLIST": []
+  },
+  "205": {
+    "ID_QUARTO": 205,
+    "STATUS": "Ocupado",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T13:22:35.819Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T13:22:35.819Z",
+    "CHECKLIST": []
+  },
+  "206": {
+    "ID_QUARTO": 206,
+    "STATUS": "Vago limpo",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "207": {
+    "ID_QUARTO": 207,
+    "STATUS": "Vago limpo",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "208": {
+    "ID_QUARTO": 208,
+    "STATUS": "Vago limpo",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "209": {
+    "ID_QUARTO": 209,
+    "STATUS": "Ocupado",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T13:22:35.828Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T13:22:35.828Z",
+    "CHECKLIST": []
+  },
+  "210": {
+    "ID_QUARTO": 210,
+    "STATUS": "Ocupado",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T13:22:35.824Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T13:22:35.824Z",
+    "CHECKLIST": []
+  },
+  "211": {
+    "ID_QUARTO": 211,
+    "STATUS": "Ocupado",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T13:22:35.831Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T13:22:35.831Z",
+    "CHECKLIST": []
+  },
+  "212": {
+    "ID_QUARTO": 212,
+    "STATUS": "Ocupado",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.179Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.179Z",
+    "CHECKLIST": []
+  },
+  "213": {
+    "ID_QUARTO": 213,
+    "STATUS": "Vago limpo",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "214": {
+    "ID_QUARTO": 214,
+    "STATUS": "Vago limpo",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "215": {
+    "ID_QUARTO": 215,
+    "STATUS": "Vago limpo",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "216": {
+    "ID_QUARTO": 216,
+    "STATUS": "Vago limpo",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "217": {
+    "ID_QUARTO": 217,
+    "STATUS": "Vago sujo",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T23:22:43.643Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T23:22:43.643Z",
+    "CHECKLIST": []
+  },
+  "218": {
+    "ID_QUARTO": 218,
+    "STATUS": "Vago sujo",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T23:22:43.705Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T23:22:43.705Z",
+    "CHECKLIST": []
+  },
+  "219": {
+    "ID_QUARTO": 219,
+    "STATUS": "Vago sujo",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T23:22:43.739Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T23:22:43.739Z",
+    "CHECKLIST": []
+  },
+  "220": {
+    "ID_QUARTO": 220,
+    "STATUS": "Vago limpo",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T23:22:43.734Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T23:22:43.734Z",
+    "CHECKLIST": []
+  },
+  "221": {
+    "ID_QUARTO": 221,
+    "STATUS": "Vago sujo",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T19:46:35.005Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T19:46:35.005Z",
+    "CHECKLIST": []
+  },
+  "222": {
+    "ID_QUARTO": 222,
+    "STATUS": "Ocupado",
+    "ANDAR": 2,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T19:46:35.009Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T19:46:35.009Z",
+    "CHECKLIST": []
+  },
+  "301": {
+    "ID_QUARTO": 301,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "302": {
+    "ID_QUARTO": 302,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "303": {
+    "ID_QUARTO": 303,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "304": {
+    "ID_QUARTO": 304,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "305": {
+    "ID_QUARTO": 305,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "306": {
+    "ID_QUARTO": 306,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "307": {
+    "ID_QUARTO": 307,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "308": {
+    "ID_QUARTO": 308,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "309": {
+    "ID_QUARTO": 309,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "310": {
+    "ID_QUARTO": 310,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "311": {
+    "ID_QUARTO": 311,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "312": {
+    "ID_QUARTO": 312,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "313": {
+    "ID_QUARTO": 313,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "314": {
+    "ID_QUARTO": 314,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "315": {
+    "ID_QUARTO": 315,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "316": {
+    "ID_QUARTO": 316,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "317": {
+    "ID_QUARTO": 317,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "318": {
+    "ID_QUARTO": 318,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "319": {
+    "ID_QUARTO": 319,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "320": {
+    "ID_QUARTO": 320,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "321": {
+    "ID_QUARTO": 321,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "322": {
+    "ID_QUARTO": 322,
+    "STATUS": "Vago limpo",
+    "ANDAR": 3,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "401": {
+    "ID_QUARTO": 401,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "402": {
+    "ID_QUARTO": 402,
+    "STATUS": "Vago sujo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T23:28:59.709Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T23:28:59.709Z",
+    "CHECKLIST": []
+  },
+  "403": {
+    "ID_QUARTO": 403,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "404": {
+    "ID_QUARTO": 404,
+    "STATUS": "Ocupado",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T23:28:59.735Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T23:28:59.735Z",
+    "CHECKLIST": []
+  },
+  "405": {
+    "ID_QUARTO": 405,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "406": {
+    "ID_QUARTO": 406,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "407": {
+    "ID_QUARTO": 407,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "408": {
+    "ID_QUARTO": 408,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "409": {
+    "ID_QUARTO": 409,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "410": {
+    "ID_QUARTO": 410,
+    "STATUS": "Vago sujo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T23:28:59.763Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T23:28:59.764Z",
+    "CHECKLIST": []
+  },
+  "411": {
+    "ID_QUARTO": 411,
+    "STATUS": "Ocupado",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T23:28:59.769Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T23:28:59.769Z",
+    "CHECKLIST": []
+  },
+  "412": {
+    "ID_QUARTO": 412,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "413": {
+    "ID_QUARTO": 413,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "414": {
+    "ID_QUARTO": 414,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "415": {
+    "ID_QUARTO": 415,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "416": {
+    "ID_QUARTO": 416,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "417": {
+    "ID_QUARTO": 417,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "418": {
+    "ID_QUARTO": 418,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "419": {
+    "ID_QUARTO": 419,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "420": {
+    "ID_QUARTO": 420,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "421": {
+    "ID_QUARTO": 421,
+    "STATUS": "Vago limpo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "422": {
+    "ID_QUARTO": 422,
+    "STATUS": "Vago sujo",
+    "ANDAR": 4,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T23:28:14.914Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T23:28:14.914Z",
+    "CHECKLIST": []
+  },
+  "501": {
+    "ID_QUARTO": 501,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "502": {
+    "ID_QUARTO": 502,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "503": {
+    "ID_QUARTO": 503,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "504": {
+    "ID_QUARTO": 504,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "505": {
+    "ID_QUARTO": 505,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "506": {
+    "ID_QUARTO": 506,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "507": {
+    "ID_QUARTO": 507,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "508": {
+    "ID_QUARTO": 508,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "509": {
+    "ID_QUARTO": 509,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "510": {
+    "ID_QUARTO": 510,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "511": {
+    "ID_QUARTO": 511,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "512": {
+    "ID_QUARTO": 512,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "513": {
+    "ID_QUARTO": 513,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "514": {
+    "ID_QUARTO": 514,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "515": {
+    "ID_QUARTO": 515,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "516": {
+    "ID_QUARTO": 516,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "517": {
+    "ID_QUARTO": 517,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "518": {
+    "ID_QUARTO": 518,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "519": {
+    "ID_QUARTO": 519,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "520": {
+    "ID_QUARTO": 520,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "521": {
+    "ID_QUARTO": 521,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "522": {
+    "ID_QUARTO": 522,
+    "STATUS": "Vago limpo",
+    "ANDAR": 5,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "601": {
+    "ID_QUARTO": 601,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "602": {
+    "ID_QUARTO": 602,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "603": {
+    "ID_QUARTO": 603,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "604": {
+    "ID_QUARTO": 604,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "605": {
+    "ID_QUARTO": 605,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "606": {
+    "ID_QUARTO": 606,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "607": {
+    "ID_QUARTO": 607,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "608": {
+    "ID_QUARTO": 608,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "609": {
+    "ID_QUARTO": 609,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "610": {
+    "ID_QUARTO": 610,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "611": {
+    "ID_QUARTO": 611,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "612": {
+    "ID_QUARTO": 612,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "613": {
+    "ID_QUARTO": 613,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "614": {
+    "ID_QUARTO": 614,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "615": {
+    "ID_QUARTO": 615,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "616": {
+    "ID_QUARTO": 616,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "617": {
+    "ID_QUARTO": 617,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "618": {
+    "ID_QUARTO": 618,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "619": {
+    "ID_QUARTO": 619,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "620": {
+    "ID_QUARTO": 620,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "621": {
+    "ID_QUARTO": 621,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "622": {
+    "ID_QUARTO": 622,
+    "STATUS": "Vago limpo",
+    "ANDAR": 6,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "701": {
+    "ID_QUARTO": 701,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "702": {
+    "ID_QUARTO": 702,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "703": {
+    "ID_QUARTO": 703,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "704": {
+    "ID_QUARTO": 704,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "705": {
+    "ID_QUARTO": 705,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "706": {
+    "ID_QUARTO": 706,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "707": {
+    "ID_QUARTO": 707,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "708": {
+    "ID_QUARTO": 708,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "709": {
+    "ID_QUARTO": 709,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "710": {
+    "ID_QUARTO": 710,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "711": {
+    "ID_QUARTO": 711,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "712": {
+    "ID_QUARTO": 712,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "713": {
+    "ID_QUARTO": 713,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "714": {
+    "ID_QUARTO": 714,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "715": {
+    "ID_QUARTO": 715,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "716": {
+    "ID_QUARTO": 716,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "717": {
+    "ID_QUARTO": 717,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "718": {
+    "ID_QUARTO": 718,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "719": {
+    "ID_QUARTO": 719,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "720": {
+    "ID_QUARTO": 720,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "721": {
+    "ID_QUARTO": 721,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "722": {
+    "ID_QUARTO": 722,
+    "STATUS": "Vago limpo",
+    "ANDAR": 7,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "801": {
+    "ID_QUARTO": 801,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "802": {
+    "ID_QUARTO": 802,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "803": {
+    "ID_QUARTO": 803,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "804": {
+    "ID_QUARTO": 804,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "805": {
+    "ID_QUARTO": 805,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "806": {
+    "ID_QUARTO": 806,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "807": {
+    "ID_QUARTO": 807,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "808": {
+    "ID_QUARTO": 808,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "809": {
+    "ID_QUARTO": 809,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "810": {
+    "ID_QUARTO": 810,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "811": {
+    "ID_QUARTO": 811,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "812": {
+    "ID_QUARTO": 812,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "813": {
+    "ID_QUARTO": 813,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "814": {
+    "ID_QUARTO": 814,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "815": {
+    "ID_QUARTO": 815,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "816": {
+    "ID_QUARTO": 816,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "817": {
+    "ID_QUARTO": 817,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "818": {
+    "ID_QUARTO": 818,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "819": {
+    "ID_QUARTO": 819,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "820": {
+    "ID_QUARTO": 820,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "821": {
+    "ID_QUARTO": 821,
+    "STATUS": "Vago limpo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "822": {
+    "ID_QUARTO": 822,
+    "STATUS": "Vago sujo",
+    "ANDAR": 8,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T23:23:53.472Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-16T23:23:53.472Z",
+    "CHECKLIST": []
+  },
+  "901": {
+    "ID_QUARTO": 901,
+    "STATUS": "Vago limpo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "902": {
+    "ID_QUARTO": 902,
+    "STATUS": "Vago limpo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "903": {
+    "ID_QUARTO": 903,
+    "STATUS": "Vago limpo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "904": {
+    "ID_QUARTO": 904,
+    "STATUS": "Vago limpo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "905": {
+    "ID_QUARTO": 905,
+    "STATUS": "Vago limpo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "906": {
+    "ID_QUARTO": 906,
+    "STATUS": "Vago limpo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "907": {
+    "ID_QUARTO": 907,
+    "STATUS": "Ocupado",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.197Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.197Z",
+    "CHECKLIST": []
+  },
+  "908": {
+    "ID_QUARTO": 908,
+    "STATUS": "Ocupado",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.347Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.347Z",
+    "CHECKLIST": []
+  },
+  "909": {
+    "ID_QUARTO": 909,
+    "STATUS": "Vago limpo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "910": {
+    "ID_QUARTO": 910,
+    "STATUS": "Vago limpo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "911": {
+    "ID_QUARTO": 911,
+    "STATUS": "Vago limpo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "912": {
+    "ID_QUARTO": 912,
+    "STATUS": "Vago limpo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "913": {
+    "ID_QUARTO": 913,
+    "STATUS": "Ocupado",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.397Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.397Z",
+    "CHECKLIST": []
+  },
+  "914": {
+    "ID_QUARTO": 914,
+    "STATUS": "Vago limpo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.415Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.415Z",
+    "CHECKLIST": []
+  },
+  "915": {
+    "ID_QUARTO": 915,
+    "STATUS": "Vago sujo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.446Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.446Z",
+    "CHECKLIST": []
+  },
+  "916": {
+    "ID_QUARTO": 916,
+    "STATUS": "Ocupado",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.449Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.449Z",
+    "CHECKLIST": []
+  },
+  "917": {
+    "ID_QUARTO": 917,
+    "STATUS": "Vago limpo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "918": {
+    "ID_QUARTO": 918,
+    "STATUS": "Vago limpo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "919": {
+    "ID_QUARTO": 919,
+    "STATUS": "Vago limpo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  },
+  "920": {
+    "ID_QUARTO": 920,
+    "STATUS": "Vago sujo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.382Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.382Z",
+    "CHECKLIST": []
+  },
+  "921": {
+    "ID_QUARTO": 921,
+    "STATUS": "Ocupado",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-20T14:45:37.277Z",
+    "ULTIMA_SINCRONIZACAO": "2025-07-20T14:45:37.277Z",
+    "CHECKLIST": []
+  },
+  "922": {
+    "ID_QUARTO": 922,
+    "STATUS": "Vago limpo",
+    "ANDAR": 9,
+    "ULTIMA_ATUALIZACAO": "2025-07-16T00:57:17.333Z",
+    "ULTIMA_SINCRONIZACAO": null,
+    "CHECKLIST": []
+  }
+}
